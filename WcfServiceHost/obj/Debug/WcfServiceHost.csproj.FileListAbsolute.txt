@@ -1,0 +1,12 @@
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\JsonRpcOverTcp.dll
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\Utils.dll
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\Newtonsoft.Json.dll
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\JsonRpcOverTcp.pdb
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\Utils.pdb
+F:\Work\JsonRpcOverTcp\WcfServiceHost\bin\Debug\Newtonsoft.Json.xml
+F:\Work\JsonRpcOverTcp\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+F:\Work\JsonRpcOverTcp\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+F:\Work\JsonRpcOverTcp\WcfServiceHost\obj\Debug\WcfServiceHost.pdb

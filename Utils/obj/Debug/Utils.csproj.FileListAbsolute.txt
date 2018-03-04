@@ -1,0 +1,4 @@
+F:\Work\JsonRpcOverTcp\Utils\bin\Debug\Utils.dll
+F:\Work\JsonRpcOverTcp\Utils\bin\Debug\Utils.pdb
+F:\Work\JsonRpcOverTcp\Utils\obj\Debug\Utils.dll
+F:\Work\JsonRpcOverTcp\Utils\obj\Debug\Utils.pdb
