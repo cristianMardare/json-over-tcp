@@ -1,9 +1,0 @@
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\bin\Debug\JsonRpcOverTcp.dll
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\bin\Debug\JsonRpcOverTcp.pdb
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\bin\Debug\Newtonsoft.Json.dll
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\bin\Debug\Utils.dll
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\bin\Debug\Utils.pdb
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\bin\Debug\Newtonsoft.Json.xml
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\obj\Debug\JsonRpcOverTcp.csprojResolveAssemblyReference.cache
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\obj\Debug\JsonRpcOverTcp.dll
-F:\Work\JsonRpcOverTcp\JsonRpcOverTcp\obj\Debug\JsonRpcOverTcp.pdb

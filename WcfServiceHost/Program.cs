@@ -23,7 +23,7 @@ namespace WcfServiceHost
                 serviceHost.Open();
                 Console.WriteLine("Host opened");
 
-                RunTestBatch(serviceHost);
+                //RunTestBatch(serviceHost);
             }
             catch (Exception ex)
             {
